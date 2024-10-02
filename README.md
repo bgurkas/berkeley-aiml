@@ -6,4 +6,4 @@ From the project writeup: This data is from the UCI Machine Learning Repository 
 
 Upon investigation of the dataset's features, it was discovered that factors such as visit frequency, age, income, distance to the venue offering the coupon, and the original destination of the driver have an effect on whether the driver will accept the coupon offered to them.
 
-Details of the investigation can be found here.
+Details of the investigation can be found <a href="part1/prompt.ipynb">here</a>.
