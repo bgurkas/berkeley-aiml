@@ -1,6 +1,6 @@
 # Part 1
 
-The prompt for <a href="part1"> Part 1 </a> was "Will the Customer Accept the Coupon?". 
+The prompt for <a href="part1"> Part 1</a> was "Will the Customer Accept the Coupon?". 
 
 # Part 2
 
